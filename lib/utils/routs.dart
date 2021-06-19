@@ -1,4 +1,4 @@
 class MyRoutes {
   static const String loginRoute = "/";
-  static const String homeRoute = "/";
+  static const String homeRoute = "/home";
 }
